@@ -1,2 +1,0 @@
-# portfolio-reza
-# web-portfolio
